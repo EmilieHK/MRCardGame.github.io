@@ -8,14 +8,14 @@ content: MR Card Game is an educational, customizable AR (Augmented Reality) tow
 
 # Add your social links
 social:
-  - platform: ´GitHub
+  - platform: GitHub
     url: https://github.com/JulianStaab/MR-Card-Game/tree/main
   - platform: AppStore
-    url: https://facebook.com/brianmaierjr
+    url: 
   - platform: Setup
-    url: https://twitter.com/brianmaierjr
+    url: 
   - platform: Playing the Game
-    url: brianmaierjr
+    url: 
 
 # General settings
 # url: http://brianmaierjr.github.com/uni

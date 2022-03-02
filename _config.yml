@@ -18,17 +18,10 @@ social:
   - platform: linkedin
     url: brianmaierjr
 
-# General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+# General settings 
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
 
-#### LAYOUT OPTIONS #####
-
-# Half layout
 half_side: right
 
-# Full layout
-full_text_position: right # left, right or center

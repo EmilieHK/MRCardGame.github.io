@@ -17,7 +17,7 @@ github:             https://github.com/JulianStaab/MR-Card-Game
 location:           Aachen, Germany
 
 # Other
-background_image:   images/bg.png
+background_image:   "/images/bg.png"
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 
 defaults:

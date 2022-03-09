@@ -2,7 +2,9 @@
 # Jekyll automatically transpiles this file; access via {{site.url}}/assets/css/main.css
 ---
 
-$background_image: url("https://user-images.githubusercontent.com/44223481/157476084-24cf0eda-03cb-4659-922d-4946877d3670.png");
+$background_image: url('../../images/bg.png');
+//$background_image: '{{site.background_image}}';
+//$background_image: url("https://user-images.githubusercontent.com/44223481/157476084-24cf0eda-03cb-4659-922d-4946877d3670.png");
 
 @import 'libs/vars';
 @import 'libs/functions';

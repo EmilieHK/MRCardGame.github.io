@@ -1,7 +1,7 @@
 # Site
-title:              'MR Card Game'
-bio:                'A Mixed Reality-Based Card Game for Formal and Informal Education.'
-description:        "MR Card Game is an educational, customizable AR (Augmented Reality) tower defense card game application that allows for playful learning by combining quiz questions with engaging real-time strategy gameplay. The goal of the game is to defend your castle against approaching attackers by casting spells, setting traps and building powerful defensive towers to slow down the invaders. In order to gain access to these defenses, players need to answer questions from a chosen field or topic. If answered correctly, players can use varying cards to defeat wave after wave of a wide variety of attackers."
+title:              Massively
+bio:                'Jekyll version of the Massively theme by HTML5UP'
+description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -11,14 +11,20 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-github:             https://github.com/JulianStaab/MR-Card-Game
+twitter:            default
+facebook:           default
+instagram:          default
+github:             default
 
 # personal
-location:           Aachen, Germany
+location:           Los Angeles, CA
+phone:              310-318-5555
+email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
+slapform_thankyou_page: /thank-you
 
 defaults:
 - scope:
